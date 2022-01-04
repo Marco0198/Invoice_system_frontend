@@ -1,4 +1,6 @@
-# invoiceweb
+# invoiceweb author: Marco Mulonday
+# email:tshimangamarco@gmail.com
+# phone number: 0727408325
 
 ## Project setup
 ```
@@ -13,7 +15,8 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+### inportant notice 
+-please make sure to fill out all the details requires to enable you to send data to the server
+-and ensure that the customer id that you are using is valid or exist in the customers table in the d6_db
